@@ -1,4 +1,4 @@
-# Edge Detector: Convolution of Video Stream using Gradient and Gaussian methods.
+# Edge Detector: Multi-Threaded Convolution of Video Stream using Gradient and Gaussian methods.
 
 
 ## Sobel Kernel: 
